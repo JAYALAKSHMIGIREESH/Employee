@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "49ff",
+      "name": "Jayalakshmi",
+      "email": "jayalakshmigireesh2003@gmail.com",
+      "status": "active"
+    },
+    {
+      "name": "Ammu A M",
+      "email": "ammu@gmail.com",
+      "status": "active",
+      "id": "ddeb"
+    },
+    {
+      "name": "Sandra",
+      "email": "sandra@gmail.com",
+      "status": "active",
+      "id": "M23iBFZ"
+    }
+  ]
+}
